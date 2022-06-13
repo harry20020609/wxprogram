@@ -1,0 +1,35 @@
+<!--pages/01.wxml-->
+<!--pages/posts/posts.wxml-->
+<swiper indicator-dots="{{true}}" vertical="{{false}}" autoplay="{{true}}" intervsl="3000">
+  <swiper-item>
+    <image src="/images/011.webp" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/images/012.webp" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/images/013.webp" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/images/014.webp" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/images/015.webp" />
+  </swiper-item>
+</swiper>
+
+
+<view class="post-container">
+  <view class="post-author-date">
+    <text class="post-date">腾讯新闻</text>
+    <text class="post-date">Jan 3,2020</text>
+  </view>
+  <text class="post-title">“乡村＋文创”，激活乡村发展新活力</text>
+  <text class="post-content">
+  文创正以一种新的文化生产方式，在提升中国乡村讲故事的能力，也在重塑讲故事的方式，开始让大家听得懂、也喜欢听中国乡村故事。通过文创赋能，让乡土不土，方能乡愁不愁，进而提升乡村软实力。那么乡村发展与文创怎么相结合呢？
+  明月村——寻找乡村特色与文化创意结合点
+  雷竹、茶田、松林、古窑、宁静的空气，有梦、就有梦栖息的地方。蒲江县甘溪镇明月村，36个文创项目散落在茶谷松林，100余名陶艺家、艺术家、设计师栖居田园。短短两年时间，明月村以日新月异的速度闯进人们的视线。如今，明月村的口号是“明月村·理想村”。明月村声名鹊起，一跃成为文创田园样本与乡建示范项目。
+  寻找乡土文化与文化创意的“黏合”
+  明月村的文化创意融合着重根植性和创新性。既要符合现代审美，又要紧抓地域文化之魂。明月村是成都乃至西部文创中心田园样本，这是它的价值和闪光点。以陶艺手工艺文创园区为核心，引进文创项目及文化创客，形成以“陶艺手工艺”为特色的文创项目集群和文化创客聚落，实现文化传承、生态保护、产业发展、农民增收的和谐统一。
+</text>
+</view>
